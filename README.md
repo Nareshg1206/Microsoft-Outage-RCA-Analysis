@@ -56,3 +56,5 @@ graph TD
 
 ## 💻 Running the Load Simulation
 Run `load_simulation.py` to see how server load scales non-linearly as nodes drop offline, and how the **80% safe capacity threshold** is breached.
+![Cascading Failure Load Simulation](cascading_overload_chart.png)
+
